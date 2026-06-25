@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت تسک",
+  "description": "اپلیکیشن مدیریت تسک با تاریخ شمسی و یادآور تمام صفحه (Full-Screen Intent)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
